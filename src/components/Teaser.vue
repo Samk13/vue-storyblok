@@ -1,11 +1,11 @@
 <template>
-  <div class="teaser">
+  <div class=" w-56 m-auto shadow-lg bg-green-500 mb-5 p-3 rounded-full">
     <!--
     The _editable attribute makes the next
     DOM-element clickable so the side by side editor can
     show the right component.
     -->
-    <div v-editable="blok" class="teaser__inner">
+    <div v-editable="blok">
       <h1>
         <!--
         You can access every attribute you
@@ -13,9 +13,7 @@
         -->
         {{blok.headline}}
         </h1>
-        <h2>
-          You can create new components like this - to create your own set of components.
-      </h2>
+
     </div>
   </div>
 </template>

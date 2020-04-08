@@ -9,7 +9,7 @@
 import StoryblokClient from 'storyblok-js-client'
 
 // 2. Set your token
-const token = 'HyTGDcC2zGLxxRvQYyOhJAtt';
+const token = 'U5H8kRtnSgN4fpO8S26AKgtt'
 
 // 3. Initialize the client with the preview token so we can access our API easily
 // from your space dashboard at https://app.storyblok.com
@@ -56,8 +56,8 @@ export default {
       })
       .then((response) => {
         this.story = response.data.story
-        console.log(response.data.story);
-        
+        console.log(response.data.story.content.body);
+
       })
       .catch((error) => {
         console.log(error);
