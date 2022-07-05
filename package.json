@@ -23,6 +23,6 @@
     "eslint": "^8.19.0",
     "eslint-plugin-vue": "^9.1.1",
     "storyblok-vue": "^1.0.5",
-    "vue-template-compiler": "^2.7.1"
+    "vue-template-compiler": "^2.7.2"
   }
 }
