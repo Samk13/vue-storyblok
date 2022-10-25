@@ -11,7 +11,7 @@
     "core-js": "^3.25.5",
     "storyblok-js-client": "^5.0.2",
     "vue": "^3.2.41",
-    "vue-router": "^4.1.5"
+    "vue-router": "^4.1.6"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.6",
