@@ -21,7 +21,7 @@
     "@vue/cli-plugin-eslint": "~5.0.8",
     "babel-eslint": "^10.1.0",
     "eslint": "^8.26.0",
-    "eslint-plugin-vue": "^9.6.0",
+    "eslint-plugin-vue": "^9.7.0",
     "storyblok-vue": "^1.0.5",
     "vue-template-compiler": "^2.7.13"
   }
