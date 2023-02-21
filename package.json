@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.28.0",
-    "storyblok-js-client": "^5.4.1",
+    "storyblok-js-client": "^5.4.2",
     "vue": "^3.2.47",
     "vue-router": "^4.1.6"
   },
